@@ -1,5 +1,5 @@
 # Hora Pill
 
-Organizador de pastillas
+Organizador de pastillas.
 
 ## Stack
