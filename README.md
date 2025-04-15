@@ -3,3 +3,5 @@
 Organizador de pastillas.
 
 ## Stack
+
+- TypeScript
