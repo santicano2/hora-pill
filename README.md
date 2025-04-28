@@ -4,4 +4,5 @@ Organizador de pastillas
 
 ## Stack
 
+- Vite.js
 - TypeScript
